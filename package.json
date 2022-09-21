@@ -1,0 +1,28 @@
+{
+  "name": "institue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon Backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanitaPalanki/Institue.git"
+  },
+  "author": "vanita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanitaPalanki/Institue/issues"
+  },
+  "homepage": "https://github.com/vanitaPalanki/Institue#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "mongoose": "^6.6.1",
+    "mongoose-unique-validator": "^3.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
