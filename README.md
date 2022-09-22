@@ -1,1 +1,1 @@
-# Institue
+# Institute
